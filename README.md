@@ -36,6 +36,10 @@
 <a href="https://t.me/Arrelin">
   <img align="left" alt=" Reddit" width="200" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/telegram.png" />
 </a>
+</a>
+<a href="https://steamcommunity.com/id/arrelin/">
+  <img align="left" alt=" Reddit" width="200" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/telegram.png" />
+</a>
 
 <!--
 **Arrelin/Arrelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
