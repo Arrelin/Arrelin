@@ -11,6 +11,7 @@
 * Spring/Boot
 * Hibernate
 * PostgreSQL
+* Vaadin Flow
 * MVC and Microservices
 
 ### - Learning:
