@@ -2,8 +2,7 @@
 ![{C25CD754-BF97-4C0A-AEB4-C0176AC0379F}](https://github.com/user-attachments/assets/8a5a43f0-4292-4023-af1e-439f4647df0e)
 
 ## About ME 💬 :
-<img height="300" width="500" alt="image" align="right" src="https://github.com/Arrelin/Arrelin/blob/main/assets/roulette.png" />
-<img height="300" width="500" alt="image" align="right" src="https://github.com/Arrelin/Arrelin/blob/main/assets/megamind.png" />
+<img height="300" width="500" align="right" vspace="20" src="https://github.com/Arrelin/Arrelin/blob/main/assets/roulette.png" />
 
 * I'm 23 year old Java Web Developer and Learning Enthusiast.
 
