@@ -25,7 +25,7 @@
 * certified massage therapist
 * even certified developer lol
 
-### - Links
+## - Links
 </br>
 </br>
 <a href="mailto:quickbluder@gmail.com">
