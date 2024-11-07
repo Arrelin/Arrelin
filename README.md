@@ -11,7 +11,7 @@
 * Spring/Boot
 * Hibernate
 * PostgreSQL
-* MVC Architecture
+* MVC and Microservices
 
 ### - Learning:
 * Kotlin
