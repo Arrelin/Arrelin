@@ -26,6 +26,16 @@
 * even certified developer lol
 
 ### - Links
+</br>
+</br>
+<a href="mailto:quickbluder@gmail.com">
+ <img align="left" alt="Gmail" width="170" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/gmail.png" />
+</a>
+
+</a>
+<a href="https://t.me/Arrelin">
+  <img align="left" alt=" Reddit" width="200" src="https://github.com/DivisionCom/DivisionCom/blob/main/assets/telegram.png" />
+</a>
 
 <!--
 **Arrelin/Arrelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
