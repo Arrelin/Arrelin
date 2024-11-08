@@ -13,6 +13,7 @@
 * PostgreSQL
 * Vaadin Flow
 * MVC and Microservices
+* C#
 
 ### - Learning:
 * Kotlin
@@ -22,6 +23,8 @@
 * Coroutines
 * SQLite - Room
 * Dagger 2 - Hilt
+* Godot Engine
+* Unity
 
 ### - Hobbies:
 * sub-master athlete
